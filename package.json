@@ -1,0 +1,24 @@
+{
+  "name": "T2-TallerIntegracion",
+  "version": "1.0.0",
+  "description": "Este repo contiene el código con el cual fue construida la tarea 2 del ramo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioZarateG/T2-TallerIntegracion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioZarateG/T2-TallerIntegracion/issues"
+  },
+  "homepage": "https://github.com/SergioZarateG/T2-TallerIntegracion#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
